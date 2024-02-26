@@ -1,0 +1,197 @@
+id,country_of_origin,farm_name,company,average_altitude_m,region,producer,variety,processing_method,aroma,flavor,aftertaste,acidity,body,balance,uniformity,overall,defects,total_cup_points,moisture_percentage,category_one_defects,quakers,color,category_two_defects
+0,Colombia,Finca El Paraiso,Coffee Quality Union,1815.0,"Piendamo,Cauca",Diego Samuel Bermudez,Castillo,Double Anaerobic Washed,8.58,8.5,8.42,8.58,8.25,8.42,10.0,8.58,0.0,89.33,11.8,0,0,green,3
+1,Taiwan,Royal Bean Geisha Estate,Taiwan Coffee Laboratory,1200.0,Chiayi,曾福森,Gesha,Washed / Wet,8.5,8.5,7.92,8.0,7.92,8.25,10.0,8.5,0.0,87.58,10.5,0,0,blue-green,0
+2,Laos,OKLAO coffee farms,Taiwan Coffee Laboratory,1300.0,Laos Borofen Plateau,WU TAO CHI,Java,Semi Washed,8.33,8.42,8.08,8.17,7.92,8.17,10.0,8.33,0.0,87.42,10.4,0,0,yellowish,2
+3,Costa Rica,La Cumbre,Coffee Quality Union,1900.0,"Los Santos,Tarrazu",Santa Maria de Dota,Gesha,Washed / Wet,8.08,8.17,8.17,8.25,8.17,8.08,10.0,8.25,0.0,87.17,11.8,0,0,green,0
+4,Colombia,Finca Santuario,Coffee Quality Union,1975.0,"Popayan,Cauca",Camilo Merizalde,Red Bourbon,"Honey,Mossto",8.33,8.33,8.08,8.25,7.92,7.92,10.0,8.25,0.0,87.08,11.6,0,2,yellow-green,2
+5,Guatemala,La Colina,Taiwan Coffee Laboratory,1668.0,Chimaltenango,Emilio Antonio Medina Garcia,Gesha,Washed / Wet,8.33,8.33,8.25,7.83,7.83,8.17,10.0,8.25,0.0,87.0,10.7,0,0,green,2
+6,Taiwan,野牡丹咖啡莊園 Melastoma Coffee Estate,Taiwan Coffee Laboratory,1250.0,Chiayi,黃保錫,Gesha,Washed / Wet,8.33,8.17,8.08,8.0,7.83,8.25,10.0,8.25,0.0,86.92,9.1,0,0,green,0
+7,Taiwan,七彩琉璃咖啡莊園 Chi Tsai Liu Li Ecological Farm,Taiwan Coffee Laboratory,1200.0,Chiayi,莊家榮,Sl34+Gesha,Natural / Dry,8.25,8.25,8.17,8.0,7.92,8.08,10.0,8.08,0.0,86.75,10.0,0,0,yellow green,1
+8,Taiwan,亮軒咖啡莊園 Liang Xuan Coffee Farm,Taiwan Coffee Laboratory,1250.0,Chiayi,鍾旭亮,SL34,Washed / Wet,8.08,8.08,8.25,8.08,7.92,8.0,10.0,8.25,0.0,86.67,10.8,0,0,greenish,0
+9,"Tanzania, United Republic Of",MASHIMA AMCOS,DORMAN (T) LIMITED,1550.0,KILIMANJARO,DORMAN (T) LIMITED,Bourbon,Washed / Wet,8.08,8.17,8.08,8.17,8.0,8.0,10.0,8.0,0.0,86.5,11.0,0,0,greenish,0
+10,Ethiopia,TADE GG,"Marubeni corp.,",2000.0,Guji,Tesfaye Bekele Degaga,Ethiopian Heirlooms,Natural / Dry,8.08,8.25,8.0,8.08,7.92,7.92,10.0,8.0,0.0,86.25,11.8,0,1,greenish,1
+11,Guatemala,Karen Acajabon Coffee Farm,Taiwan Coffee Laboratory,2000.0,Acatenango,Karen Acajabon,Gesha,Natural / Dry,8.08,8.0,8.0,7.75,8.25,8.17,10.0,8.0,0.0,86.25,11.5,0,0,brownish,1
+12,Taiwan,古峰咖啡莊園 Goodfun Coffee Farm,Taiwan Coffee Laboratory,1250.0,Yunlin,賴彥合,Gesha,Washed / Wet,8.08,8.0,8.08,8.08,8.0,8.0,10.0,8.0,0.0,86.25,11.9,0,0,green,0
+13,Ethiopia,Gelana Geisha,Kerchanshe Trading PLC,1950.0,Guji,Kerchanshe,Gesha,Natural / Dry,7.67,8.17,8.0,8.33,8.0,8.0,10.0,8.0,0.0,86.17,11.6,0,3,yellow- green,2
+14,Colombia,La Gaitania,Taiwan Coffee Laboratory,1850.0,tolima,Josue Enciso Suarez,Caturra,Washed / Wet,8.08,8.0,8.08,7.92,8.08,8.0,10.0,8.0,0.0,86.17,10.6,0,0,green,0
+15,Taiwan,青葉咖啡莊園,Taiwan Coffee Laboratory,1100.0,Chiayi,葉世遠,SL34,Pulped natural / honey,8.17,8.08,8.0,7.92,8.0,7.92,10.0,8.0,0.0,86.08,10.2,0,0,green,0
+16,Ethiopia,Halo Bariti Cooprative,Coffee Quality Union,2000.0,"Gedeb,Yirgacheffe,Sidamo",Halo Bariti Cooprative,"Wolishalo,Kurume,Dega",Washed / Wet,8.17,8.08,7.92,8.17,7.75,7.92,10.0,8.08,0.0,86.08,11.3,0,2,green,2
+17,Taiwan,東璧咖啡莊園,Dongbi coffee,1300.0,"Shibi, Gukeng Township, Yunlin County 郵遞區號 , Taiwan (R.O.C.)",陳景立,Gesha,Natural / Dry,8.0,8.17,8.0,7.92,7.92,7.92,10.0,8.17,0.0,86.08,10.3,0,0,yellow-green,0
+18,Taiwan,櫻桃果古坑咖啡莊園,宸嶧國際有限公司,1200.0,"Gukeng Township, Yunlin County",王瀅惠,Gesha,Natural / Dry,8.08,8.17,7.75,7.92,7.83,8.0,10.0,8.17,0.0,85.92,11.0,0,0,brownish,1
+19,"Tanzania, United Republic Of",BURKA,DORMAN (T) LIMITED,1585.0,Arusha,DORMAN (T) LIMITED,Bourbon,Washed / Wet,8.17,8.0,7.92,7.92,8.17,7.75,10.0,7.92,0.0,85.83,10.0,0,0,greenish,0
+20,Guatemala,Finca Vista Hermosa,Taiwan Coffee Laboratory,1900.0,"Guatemala, Fraijanes, Santa Rosa",Fredy Orantes,Gesha,Natural / Dry,8.0,7.92,8.08,7.92,7.75,8.0,10.0,8.08,0.0,85.75,11.6,0,0,yellowish,0
+21,Taiwan,仲大叔咖啡莊園Uncle Chung.s Coffee Farm,Taiwan Coffee Laboratory,850.0,卓溪鄉Zhuoxi Township,游婷淯 YU TING YU,Typica,Natural / Dry,8.08,8.0,7.92,7.92,8.0,7.83,10.0,7.92,0.0,85.67,10.4,0,0,green,0
+22,Thailand,Hom Doi,Lyrose,1600.0,Chiang Mai,Lisu farmers,Catimor,Pulped natural / honey,7.67,8.0,7.83,8.0,8.08,8.0,10.0,8.08,0.0,85.67,9.8,0,0,browish-green,5
+24,Taiwan,永舜咖啡莊園,Taiwan Coffee Laboratory,1250.0,Yunlin,蘇甘永,SL34,Washed / Wet,7.83,8.0,7.92,8.0,8.0,7.92,10.0,7.92,0.0,85.58,10.6,0,0,bluish-green,0
+26,Taiwan,鄒築園ZouZhouYuan,Taiwan Coffee Laboratory,1300.0,Chiayi,方政倫,Gesha,Natural / Dry,7.92,7.92,8.0,7.92,7.83,7.92,10.0,8.0,0.0,85.5,9.1,0,0,green,2
+27,Taiwan,嵩岳咖啡莊園,Taiwan Coffee Laboratory,1200.0,Yunlin,郭志豪,Gesha,Natural / Dry,8.17,8.08,7.92,8.0,7.58,7.83,10.0,7.92,0.0,85.5,10.6,0,0,green,0
+28,Taiwan,他扶芽有機農園,Taiwan Coffee Laboratory,1060.0,Chiayi,陳清龍,Gesha,Natural / Dry,8.0,8.0,8.0,7.92,7.75,7.92,10.0,7.92,0.0,85.5,10.2,0,0,blue-green,0
+29,United States (Hawaii),Hokukano Ranch,Taiwan Coffee Laboratory,600.0,Kona,Kona Hills LLC,Typica,Washed / Wet,8.0,7.92,8.0,7.83,7.67,8.0,10.0,8.0,0.0,85.42,9.3,0,0,green,0
+30,Taiwan,鄉庭有機農場Siang-Ting Organic Farm,Taiwan Coffee Laboratory,200.0,壽豐鄉Shoufeng Township,張進義Zhang Jin-Yi,Typica,Washed / Wet,8.0,8.0,7.83,7.83,7.75,7.92,10.0,8.08,0.0,85.42,11.4,0,0,bluish-green,0
+31,Taiwan,鄉庭有機農場Siang-Ting Organic Farm,Taiwan Coffee Laboratory,200.0,壽豐鄉Shoufeng Township,張進義Zhang Jin-Yi,Typica,Washed / Wet,7.92,8.0,7.83,7.92,7.83,7.83,10.0,8.0,0.0,85.33,10.8,0,0,green,0
+32,Taiwan,金讚咖啡農莊園(Jinzan Coffee Estate),Taiwan Coffee Laboratory,668.0,"Dongshan Dist., Tainan City","葉明讚 (YE,MING-ZAN)",Gesha,Washed / Wet,8.08,8.17,7.67,7.83,7.67,7.92,10.0,8.0,0.0,85.33,11.3,0,0,green,0
+33,Ethiopia,Eshetu farm,Alo Coffee,1950.0,Oromia,Eshetu,Ethiopian Heirlooms,Washed / Wet,7.67,7.83,7.83,8.0,8.0,8.0,10.0,8.0,0.0,85.33,9.9,0,2,green,3
+34,Ethiopia,Uraga Bisrat washing station,TADESSE DESTA IMPORT & EXPORT,2250.0,Southern Ethiopia Guji,Bisrat Melaku,Ethiopian Heirlooms,Natural / Dry,8.0,8.08,8.0,8.0,7.67,7.75,10.0,7.83,0.0,85.33,12.3,0,3,yellow green,4
+35,Ethiopia,YHAENU PLC FARM,yhaenu plc,1700.0,OROMIA,YHAENU PLC,Ethiopian Heirlooms,Washed / Wet,7.92,7.75,7.83,8.17,8.0,7.75,10.0,7.83,0.0,85.25,9.4,0,1,greenish,1
+36,Taiwan,卓武山咖啡農場,Taiwan Coffee Laboratory,1200.0,Chiayi,許定燁,Gesha,Washed / Wet,8.0,7.92,7.83,7.92,7.83,7.83,10.0,7.92,0.0,85.25,9.5,0,0,bluish-green,0
+37,Taiwan,御香咖啡園 YU SIANG Coffee Estate,Taiwan Coffee Laboratory,650.0,"Dongshan Dist., Tainan City","陳建源(CHEN, JIAN-YUAN)",Gesha,Pulped natural / honey,8.25,8.08,7.83,7.75,7.67,7.75,10.0,7.92,0.0,85.25,11.3,0,0,green,0
+38,Kenya,Small Holder,IBERO (K) LTD,1750.0,Central,Small Holder,SL28,Washed / Wet,8.17,7.75,7.83,7.58,7.92,8.0,10.0,8.0,0.0,85.25,9.2,0,0,greenish,1
+39,Taiwan,皇庭咖啡莊園,宸嶧國際有限公司,850.0,"Caoling , Gukeng Township, Yunlin County",陳榮豐,Gesha,Washed / Wet,7.75,7.92,7.75,8.0,7.83,7.92,10.0,8.0,0.0,85.17,10.3,0,0,bluish-green,0
+40,Taiwan,花蓮縣秀林鄉特用作物（咖啡）產銷第一班Agriculture Production and Marketing Groups of Hualien Shlin township special crop (coffee) 1st class,Taiwan Coffee Laboratory,400.0,秀林鄉Show Linxia Township,李志祥 Li Zhi-xia,Typica,Natural / Dry,8.0,7.92,7.83,7.92,7.75,7.75,10.0,7.92,0.0,85.08,10.0,0,0,brownish,0
+41,Taiwan,八一高地,茂泰生技股份有限公司,1000.0,台灣屏東,陳科翰,Typica,Washed / Wet,8.0,8.08,7.67,7.75,7.92,7.83,10.0,7.83,0.0,85.08,10.5,0,0,greenish,0
+42,Taiwan,香夾蘭莊園,Taiwu Coffee Cooperative,800.0,苗栗縣,黃簡秋蘭,Gesha,Washed / Wet,8.0,7.92,7.67,8.0,7.75,7.83,10.0,7.92,0.0,85.08,10.0,0,0,pale yellow,5
+43,Uganda,Gideon Kule,Kyagalanyi Coffee Limited,1905.0,Rwenzori,Kyagalanyi coffee limited,SL14,Washed / Wet,8.0,7.92,7.75,7.75,7.75,7.92,10.0,7.92,0.0,85.0,11.0,0,0,green,1
+45,Taiwan,青山坪咖啡農場,Taiwan Coffee Laboratory,800.0,Yunlin,王清連,Gesha,Natural / Dry,8.17,8.08,7.83,7.67,7.67,7.75,10.0,7.83,0.0,85.0,10.1,0,0,yellow green,0
+46,Guatemala,varias fincas,"Peter Schoenfeld, S.A.",1600.0,Antigua,Varios productores,Caturra,Washed / Wet,7.67,8.08,7.67,8.0,7.92,7.83,10.0,7.83,0.0,85.0,9.9,0,1,green,1
+47,Guatemala,PEÑA BLANCA,"OLAM AGRO GUATEMALA, S.A.",4700.0,Santa Rosa,PABLO CHUY,Catuai,Washed / Wet,7.67,8.0,7.75,7.92,8.0,7.83,10.0,7.83,0.0,85.0,11.3,0,0,green,4
+48,Guatemala,san francisco cotzal,"inmobiliaria e inversiones dos mil, s.a.",1600.0,quiche,san francisco cotzal,Caturra,Washed / Wet,7.83,7.92,7.75,8.0,7.75,7.75,10.0,7.92,0.0,84.92,11.7,0,3,green,1
+49,Taiwan,六曲窩,Taiwu Coffee Cooperative,375.0,新竹縣,黃俊淦,Typica,Washed / Wet,7.92,7.92,7.83,7.83,7.75,7.83,10.0,7.83,0.0,84.92,9.5,0,0,green,2
+50,Taiwan,北平山林,Taiwu Coffee Cooperative,230.0,新竹縣,戴禎男,Yellow Bourbon,Natural / Dry,8.0,8.0,7.75,7.75,7.67,7.75,10.0,7.92,0.0,84.83,9.7,0,0,brownish,0
+52,Peru,Ruya Yayu Farm,Taiwan Coffee Laboratory,1750.0,Villa Rica,Ruya Yayu,Gesha,Washed / Wet,8.0,8.0,7.83,7.83,7.58,7.83,10.0,7.75,0.0,84.83,10.7,0,0,greenish,0
+53,"Tanzania, United Republic Of",IYENGA,VOLCAFE/TaylorWinch Tanzania Ltd,1654.0,Mbeya,IYENGA AMCOS,Bourbon,Washed / Wet,7.92,7.75,7.75,7.92,7.83,7.83,10.0,7.83,0.0,84.83,11.2,0,0,greenish,0
+54,Taiwan,優遊吧斯瑪翡咖啡莊園,Taiwan Coffee Laboratory,1300.0,Chiayi,鄭虞坪,SL34,Natural / Dry,7.83,7.83,7.67,7.67,7.83,8.0,10.0,8.0,0.0,84.83,9.5,0,0,greenish,0
+55,Taiwan,森悅高峰咖啡莊園,Taiwan Coffee Laboratory,1400.0,Nantou,吳振宏,SL34,Washed / Wet,7.67,7.92,7.92,7.83,7.75,7.83,10.0,7.83,0.0,84.75,10.4,0,0,green,0
+56,Brazil,Fazenda Guariroba,Mirai Seeds Corp.,1100.0,Campo das Vertentes,Homero Paiva,Yellow Bourbon,Double Carbonic Maceration / Natural,7.83,7.92,7.75,7.92,7.67,7.83,10.0,7.83,0.0,84.75,11.2,0,1,green,5
+57,Panama,La Santa,Panamerican Coffee Trading,1200.0,Boquete,La Santa,Catuai,Washed / Wet,7.83,7.83,7.75,7.92,7.83,7.75,10.0,7.83,0.0,84.75,10.3,0,1,bluish-green,5
+58,Taiwan,嵐雲綠海咖啡,茂泰生技股份有限公司,1200.0,台灣屏東,卓榮華,Yellow Bourbon,Pulped natural / honey,7.92,8.08,7.67,7.92,7.67,7.75,10.0,7.75,0.0,84.75,10.0,0,0,blue-green,0
+59,Guatemala,Varias Fincas,"Peter Schoenfeld, S.A.",1600.0,Huehuetenango,Varios Productores,Caturra,Washed / Wet,7.67,8.0,7.67,7.83,7.92,7.67,10.0,7.92,0.0,84.67,10.6,0,0,green,1
+60,Guatemala,SAN RAFAEL URIAS VALDES,"VALBROS, S. A.",4895.0,ANTIGUA GUATEMALA,"VALBROS, S. A.",Bourbon,Natural / Dry,7.83,8.0,7.67,7.83,7.75,7.75,10.0,7.83,0.0,84.67,10.9,0,3,yellow-green,2
+61,Costa Rica,Gamboa Farm,CECA S.A.,1850.0,Tarrazu,Martin Gutierrez,Caturra,Washed / Wet,7.58,7.83,7.5,7.67,7.83,7.67,10.0,8.58,0.0,84.67,10.0,0,1,green,2
+62,Taiwan,羅馬8號莊園,Taiwu Coffee Cooperative,250.0,新竹縣,羅政宏,Typica,Pulped natural / honey,7.83,7.83,7.75,7.75,7.75,7.75,10.0,7.92,0.0,84.58,9.6,0,0,greenish,0
+63,Taiwan,大鋤花間(Dachu Coffee Estate),Taiwan Coffee Laboratory,700.0,"( Dongshan Dist., Tainan City)","郭雅聰（KUO,YA-TSUNG）",Gesha,Pulped natural / honey,8.17,7.83,7.67,7.83,7.67,7.67,10.0,7.75,0.0,84.58,11.5,0,0,green,0
+64,Nicaragua,Finca Las Dos Marias,NicaNoLA Coffee,1350.0,ESTELI,NicaNoLA Coffee,Catrenic,Natural / Dry,7.92,7.75,7.67,7.67,7.83,7.75,10.0,8.0,0.0,84.58,9.9,1,0,green,2
+65,Taiwan,雅慕伊咖啡莊園,Taiwan Coffee Laboratory,1250.0,Chiayi,浦瀚文,Gesha,Washed / Wet,8.08,7.83,7.67,7.67,7.67,7.75,10.0,7.92,0.0,84.58,11.2,0,0,green,2
+66,Taiwan,名陽園,Taiwan Coffee Laboratory,1450.0,Chiayi,王政淵,SL34,Natural / Dry,7.83,8.0,7.67,7.75,7.67,7.75,10.0,7.92,0.0,84.58,10.3,0,0,green,0
+67,Vietnam,CupnCare,Taiwan Coffee Laboratory,650.0,Quang Tri,TONG PHUC LAM TRADING SERVICES COMPANY LIMITED,Catimor,Natural / Dry,8.0,7.83,7.75,7.67,7.58,7.83,10.0,7.92,0.0,84.58,11.6,0,0,brownish,0
+68,Costa Rica,La Cumbre,Coffee Quality Union,1900.0,"Los Santos,Tarrazu",Santa Maria de Dota,Gesha,Washed / Wet,7.75,7.83,7.67,7.83,7.75,7.75,10.0,7.92,0.0,84.5,11.7,0,1,green,0
+69,Taiwan,苗55咖啡莊園,Taiwu Coffee Cooperative,520.0,苗栗縣,李鴻儀,no_record,Pulped natural / honey,7.75,7.92,7.83,7.75,7.75,7.75,10.0,7.75,0.0,84.5,11.3,0,0,bluish-green,0
+70,Honduras,La Cuchilla,Mercon Honduras,1368.0,"Centro, Lagunetillas-Ajuterique, Comayagua",Jose Nahum Maldonado,Catuai,Washed / Wet,7.83,7.92,7.75,7.75,7.75,7.75,10.0,7.75,0.0,84.5,9.8,0,0,green,3
+71,Ethiopia,TRACON TRADING PLC,Tracon Trading PLC,1943.0,Ethiopia,TRACON TRADING PLC,Ethiopian Heirlooms,Washed / Wet,7.92,7.83,7.75,7.92,7.58,7.67,10.0,7.83,0.0,84.5,10.9,0,0,green,9
+72,Taiwan,917農場 (917 Farm),Taiwan Coffee Laboratory,400.0,玉里鎮Yuli Township,黃怡瑄 Huang Yi-xuan,Typica,Natural / Dry,8.08,7.92,7.75,7.83,7.5,7.58,10.0,7.83,0.0,84.5,10.2,0,0,green,0
+73,Taiwan,皇庭咖啡莊園,Taiwan Coffee Laboratory,850.0,Yunlin,陳榮豐,Gesha,Washed / Wet,7.83,8.0,7.5,7.75,7.75,7.75,10.0,7.83,0.0,84.42,10.1,0,0,bluish-green,1
+74,Guatemala,Finca Alta Luz,"Retrillas del pacifico, s.a.",1350.0,Huehuetenango,Maria de los Angeles Perez,Bourbon,Washed / Wet,7.67,7.83,7.75,7.75,7.83,7.75,10.0,7.75,0.0,84.33,9.2,0,1,green,5
+75,United States (Hawaii),Miranda's Farm,Taiwan Coffee Laboratory,1300.0,Ka'u district of Big Island,Jose & Berta Miranda,Catuai,Washed / Wet,7.92,7.83,7.75,7.92,7.5,7.67,10.0,7.75,0.0,84.33,10.1,3,0,yellow-green,7
+76,Ethiopia,Bisrat Melaku Washing Station,Tadesse Desta import export,2361.0,Addis Ababa,Bisrat Melaku,Ethiopian Heirlooms,Natural / Dry,7.83,7.75,7.58,7.92,8.0,7.5,10.0,7.75,0.0,84.33,11.0,0,5,yellow green,4
+77,El Salvador,San Nicolas,Taiwan Coffee Laboratory,1500.0,Chalatenango,various producers,Pacamara,Pulped natural / honey,7.83,7.83,7.83,7.83,7.67,7.67,10.0,7.67,0.0,84.33,10.3,0,0,brownish,4
+78,Colombia,Asociacion Tayronaca,Sucafina NA,2100.0,Sierra Nevada de Santa Marta,Grupo Tap,Castillo and Colombia blend,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.67,10.0,7.83,0.0,84.33,11.6,0,0,green,1
+79,Indonesia,"Lintong Nihuta/Dolok Sanggul,Sumatera Utara",Coffee Quality Union,1300.0,"Lintong Nihuta/Dolok Sanggul,Sumatera Utara","Lintong Nihuta/Dolok Sanggul,Sumatera Utara","Jember,TIM-TIM,Ateng",Wet Hulling,7.67,7.67,7.83,7.83,7.67,7.75,10.0,7.83,0.0,84.25,11.5,0,1,blue-green,1
+80,Guatemala,San jose del lago,"Peter Schoenfeld, S.A.",1600.0,Atitlán,"Cafetalera Paquim, S.A.",Typica,Washed / Wet,7.58,7.92,7.67,7.75,7.83,7.75,10.0,7.75,0.0,84.25,10.0,0,0,green,1
+81,Madagascar,Mandroso,Vao Vao Sarl,1500.0,Itasy,Marc Dumont,Bourbon,Washed / Wet,7.92,7.92,7.58,7.75,7.58,7.67,10.0,7.83,0.0,84.25,12.1,0,0,blue-green,0
+82,Honduras,La Cuchilla,Mercon Honduras,1368.0,"Centro, Lagunetillas-Ajuterique, Comayagua",Jose Nahum Maldonado,Catuai,Washed / Wet,7.75,7.75,7.58,7.83,7.75,7.75,10.0,7.75,0.0,84.17,10.2,0,0,green,2
+83,Guatemala,san francisco cotzal,"inmobiliaria e inversiones dos mil, s.a.",1600.0,quiche,san francisco cotzal,Caturra,Washed / Wet,7.58,7.92,7.58,7.83,7.75,7.67,10.0,7.75,0.0,84.08,11.0,0,3,green,2
+84,Taiwan,竹崙子莊園,Taiwu Coffee Cooperative,150.0,新北市,邱建明,no_record,Pulped natural / honey,7.83,7.92,7.83,7.58,7.58,7.67,10.0,7.67,0.0,84.08,10.8,0,0,greenish,2
+85,Taiwan,元富咖啡莊園,Taiwan Coffee Laboratory,800.0,Yunlin,李泓錡,Gesha,Natural / Dry,7.92,7.75,7.67,7.75,7.75,8.0,9.33,7.92,0.0,84.08,10.6,0,0,yello-green,0
+86,Guatemala,varias fincas,"Peter Schoenfeld, S.A.",1550.0,Oriente Santa rosa,varios productores,Caturra,Washed / Wet,7.67,7.83,7.67,7.83,7.75,7.67,10.0,7.67,0.0,84.08,11.0,0,1,green,2
+87,Guatemala,varias fincas,"Peter Schoenfeld, S.A.",1550.0,Sierra de las minas,varios productores,Caturra,Washed / Wet,7.67,7.92,7.67,7.75,7.67,7.58,10.0,7.75,0.0,84.0,11.0,0,2,green,2
+88,Honduras,finca de la casa,Taiwan Coffee Laboratory,1800.0,"San Andrés, Lempira",Irma Consuelo Bonilla Hernandez,Typica,Pulped natural / honey,7.75,7.75,7.75,7.67,7.75,7.67,10.0,7.67,0.0,84.0,9.4,0,0,green,0
+89,"Tanzania, United Republic Of",KONGONI ESTATE,C.DORMAN SEZ LTD,1675.0,ARUSHA,DORMAN (T) LTD,Bourbon,Washed / Wet,7.58,7.67,7.75,7.75,7.75,7.75,10.0,7.75,0.0,84.0,9.8,0,0,greenish,3
+90,Ethiopia,Ecom Agroindustrial,Descafeinadores Mexicano SA. de CV,1800.0,Sidama,Ecom Agroindustrial,Ethiopian Heirlooms,Washed / Wet,8.0,7.75,7.5,7.67,7.67,7.67,10.0,7.75,0.0,84.0,11.3,1,1,green,1
+91,"Tanzania, United Republic Of",MASHIMA AMCOS,DORMAN (T) LTD,1550.0,KILIMANJARO,DORMAN,Bourbon,Washed / Wet,7.75,7.58,7.58,7.92,7.67,7.75,10.0,7.75,0.0,84.0,11.6,0,0,greenish,2
+92,Colombia,COO,InterAmerican Coffee,1550.0,Huila,Cooperativa Central de Caficultores del Huila,Caturra,Washed / Wet,7.67,7.83,7.58,7.92,7.67,7.67,10.0,7.67,0.0,84.0,13.3,0,2,green,3
+93,Costa Rica,Gamboa Farm,CECA S.A.,1850.0,Tarrazu,Martin Gutierrez,Caturra,Washed / Wet,7.67,7.92,7.58,7.75,7.67,7.58,10.0,7.75,0.0,83.92,9.5,0,0,green,2
+94,Guatemala,El Morito,Taiwan Coffee Laboratory,1900.0,New Oriente,Various producers,Gesha,Natural / Dry,7.83,7.83,7.58,7.67,7.67,7.58,10.0,7.75,0.0,83.92,11.9,0,0,greenish,0
+95,Guatemala,San jose del lago,"Peter Schoenfeld, S.A.",1600.0,Atitlán,"Cafetalera Paquim, S.A.",Bourbon,Washed / Wet,7.58,7.83,7.58,7.75,7.67,7.75,10.0,7.75,0.0,83.92,10.0,0,1,green,2
+96,Thailand,Baan San Charoen,Coffee Quality Union,1350.0,Nan,Phaibul Kitcharoen,Catimor,Natural / Dry,7.75,7.67,7.58,7.75,7.75,7.67,10.0,7.75,0.0,83.92,11.6,0,0,yellowish,3
+98,Guatemala,FINCA ALTA LUZ,"RETRILLAS DEL PACIFICO, S. A.",1400.0,HUEHUETENANGO,MARIA DE LOS ANGELES PEREZ,"BOURBON, CATURRA Y CATIMOR",Natural / Dry,7.58,7.83,7.67,7.67,7.67,7.67,10.0,7.75,0.0,83.83,10.8,0,0,green,4
+99,Guatemala,SAN RAFAEL URIAS VALDES,Asociación Nacional del Cafe,5272.5,ANTIGUA GUATEMALA,"VALBROS, S. A.",Bourbon,Washed / Wet,7.58,7.92,7.5,7.67,7.75,7.67,10.0,7.75,0.0,83.83,10.9,0,1,greenish,4
+100,Ethiopia,Gerbicho Lela Cooperative,Taylor Winch Coffee Ltd,2000.0,Sidama,Sidama Coffee Farmers Cooperative Union,Ethiopian Heirlooms,Washed / Wet,7.83,7.67,7.5,7.92,7.5,7.67,10.0,7.75,0.0,83.83,12.0,0,0,green,12
+101,Colombia,N / A,ECOM COLOMBIA,1700.0,Cauca,Regional producers,Caturra,Washed / Wet,7.92,7.75,7.42,7.58,7.92,7.67,10.0,7.58,0.0,83.83,12.1,2,5,green,5
+102,United States (Hawaii),various farms,Taiwan Coffee Laboratory,500.0,Ka'u,Isla Custom Coffees,Typica,Washed / Wet,7.67,7.92,7.58,7.58,7.58,7.75,10.0,7.75,0.0,83.83,11.8,0,3,green,3
+103,Colombia,La Gallera,Taiwan Coffee Laboratory,1800.0,Tolima,Oscar Javier Paez & Family,Bourbon Sidra,Pulped natural / honey,7.67,7.92,7.67,7.58,7.67,7.67,10.0,7.58,0.0,83.75,10.6,0,0,greenish,1
+104,Mexico,Finca Custepec,Exportadora Café California,1200.0,Chiapas,Armando Pohlenz,Sarchimor,Washed / Wet,7.67,7.67,7.58,7.67,7.83,7.58,10.0,7.75,0.0,83.75,11.7,4,0,green,12
+106,Taiwan,永舜咖啡莊園,Yongshun,1250.0,"Caoling , Gukeng Township, Yunlin County",蘇甘永,SL34,Washed / Wet,7.67,7.67,7.75,7.75,7.5,7.67,10.0,7.67,0.0,83.67,10.0,0,0,bluish-green,0
+107,Myanmar,Aromatic,Taiwan Coffee Laboratory,1400.0,South Shan State,Lim,"Catimor,Catuai,Caturra,Bourbon",Natural / Dry,7.83,7.83,7.67,7.58,7.58,7.58,10.0,7.58,0.0,83.67,10.2,0,1,pale yellow,1
+108,Taiwan,恆珊農場,Taiwu Coffee Cooperative,300.0,新竹縣,羅以珊,no_record,Pulped natural / honey,7.58,7.75,7.67,7.83,7.5,7.67,10.0,7.67,0.0,83.67,9.2,0,0,greenish,0
+109,Honduras,Maria Bonita,Taiwan Coffee Laboratory,1470.0,"San Jose, La Paz",Pedro Turcios,Parainema,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10.0,7.67,0.0,83.67,11.1,0,2,pale yellow,1
+110,Taiwan,正源咖啡,Taiwu Coffee Cooperative,325.0,新竹縣,彭文正,no_record,Natural / Dry,7.58,7.67,7.5,7.75,7.75,7.67,10.0,7.67,0.0,83.58,8.4,0,0,green,0
+111,Taiwan,宋明光	蝙蝠洞莊園	蝙蝠洞莊園,Taiwu Coffee Cooperative,275.0,新竹縣,宋明光,Typica,Pulped natural / honey,7.58,7.75,7.58,7.75,7.58,7.67,10.0,7.67,0.0,83.58,9.1,0,0,green,0
+112,Guatemala,SAN FRANCISCO COTZAL,Asociación Nacional del Cafe,1600.0,QUICHE,SAN FRANCISCO COTZAL,Caturra,Washed / Wet,7.58,7.83,7.58,7.67,7.58,7.58,10.0,7.75,0.0,83.58,10.9,0,2,green,4
+113,Honduras,varias,Cafe Organico Marcala S.A de C.V.,1400.0,Marcala,comsa,SHG,Washed / Wet,7.75,7.67,7.58,7.58,7.58,7.67,10.0,7.67,0.0,83.5,11.2,0,1,green,5
+114,Colombia,La fortaleza,Cafe Colsuaves,1700.0,Popayán Cauca,La fortaleza,Caturra,Washed / Wet,7.75,7.75,7.5,7.58,7.83,7.5,10.0,7.58,0.0,83.5,12.2,0,0,bluish-green,2
+115,Thailand,Doi Tung Development Project,Doi Tung Development Project,1390.0,North of Thailand,Doi Tung Development Project,Bourbon,Washed / Wet,7.42,7.83,7.58,7.67,7.67,7.75,10.0,7.58,0.0,83.5,13.1,0,0,green,0
+116,Ethiopia,YHAENU PLC FARM,yhaenu plc,1700.0,OROMIA,YHAENU PLC,Ethiopian Heirlooms,Washed / Wet,7.42,7.42,7.42,8.0,7.92,7.67,10.0,7.67,0.0,83.5,10.4,0,1,greenish,11
+117,Thailand,Doi Nan,Coffee Quality Union,1450.0,Suan Ya Lung,Chalerm,Java,Washed / Wet,7.67,7.67,7.5,7.67,7.58,7.67,10.0,7.67,0.0,83.42,11.6,0,2,green,0
+118,Uganda,Bugisu Shamba,Kawacom uganda LTD,1650.0,Mt Elgon,Kawacom Uganda Ltd,SL14,Washed / Wet,7.75,7.75,7.5,7.5,7.58,7.58,10.0,7.75,0.0,83.42,10.1,0,0,green,3
+119,Taiwan,香香久溢咖啡莊園,Taiwan Coffee Laboratory,1100.0,Chiayi,吳昭昀,Typica + SL34,Washed / Wet,7.75,7.92,7.67,7.92,7.75,7.83,8.67,7.92,0.0,83.42,10.1,0,0,blue-green,0
+120,Uganda,Masereka William,Kyagalanyi Coffee Limited,1905.0,Rwenzori,Kyagalanyi coffee limited,SL14,Washed / Wet,7.75,7.67,7.58,7.5,7.67,7.5,10.0,7.67,0.0,83.33,11.1,0,0,green,5
+121,Taiwan,四分子道,Taiwu Coffee Cooperative,250.0,新竹縣,林士傑,Typica,Pulped natural / honey,7.58,7.67,7.5,7.75,7.5,7.58,10.0,7.75,0.0,83.33,9.7,0,0,greenish,0
+122,Guatemala,MI CAFECITO & LA PROVIDENCIA,Mr.Brown Cafe,1302.5,NEW ORIENTE & HUEHUETENANGO,500 PRODUCERS,"MARSELLESA, CATUAI, CATURRA & MARSELLESA, ANACAFE 14, CATUAI",Washed / Wet,7.5,7.75,7.58,7.75,7.67,7.58,10.0,7.5,0.0,83.33,11.4,0,0,green,0
+123,Taiwan,木華莊園,Taiwu Coffee Cooperative,300.0,桃園市,簡進財,Typica,Washed / Wet,7.58,7.67,7.58,7.75,7.42,7.58,10.0,7.75,0.0,83.33,9.6,0,0,green,1
+124,Colombia,El Laurel,Minka coffee company LTD,1100.0,Sierra Nevada de Santa Marta,Eric SELLIN,Caturra,Washed / Wet,7.67,7.67,7.42,7.75,7.5,7.75,10.0,7.58,0.0,83.33,13.5,0,0,greenish,0
+125,Costa Rica,Gamboa Farm,CECA S.A.,1850.0,Tarrazu,Martin Gutierrez,Caturra,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.75,10.0,7.67,0.0,83.33,0.0,0,0,green,3
+126,Taiwan,東泓咖啡莊園,Taiwan Coffee Laboratory,750.0,Yunlin,陳善東,SL34,Washed / Wet,7.75,7.83,7.58,7.58,7.58,7.5,10.0,7.5,0.0,83.33,10.7,0,0,blue-green,1
+127,Thailand,Doi Tung Development Project,Doi Tung Development Project,1400.0,North of Thailand,Doi Tung Development Project,Typica,Washed / Wet,7.92,7.92,7.75,7.33,7.58,7.5,10.0,7.33,0.0,83.33,12.3,0,0,yellow-green,16
+128,"Tanzania, United Republic Of",MASHIMA AMCOS,DORMAN TANZANIA LTD,1550.0,KILIMANJARO,DORMAN TANZANIA LTD,Bourbon,Washed / Wet,7.92,7.67,7.42,7.5,7.67,7.58,10.0,7.5,0.0,83.25,10.4,0,0,greenish,8
+129,Brazil,Fazenda Conquista e Capoeirinha,Ipanema Coffees,950.0,Sul de Minas,Ipanema Agrícola SA,Mundo Novo,Natural / Dry,7.58,7.5,7.5,7.83,7.67,7.5,10.0,7.67,0.0,83.25,11.6,0,0,green,4
+130,Taiwan,棒棒有機農場,Taiwu Coffee Cooperative,1150.0,苗栗縣,林木青,no_record,Washed / Wet,7.75,7.75,7.58,7.67,7.42,7.5,10.0,7.58,0.0,83.25,9.6,0,0,green,1
+131,Colombia,Buenos Aires,Coffee Quality Union,1390.0,Quindio,Chucho Bedoya,"Red Bourbon,Caturra",Anaerobico 1000h,7.67,7.67,7.58,7.67,7.58,7.58,10.0,7.5,0.0,83.25,10.9,0,0,brownish,2
+132,Honduras,La Bendicion,Taiwan Coffee Laboratory,1600.0,"Marcala, La Paz",Joaquin Suazo,Lempira,Washed / Wet,7.67,7.75,7.67,7.58,7.5,7.58,10.0,7.5,0.0,83.25,10.5,0,0,bluish-green,3
+133,Honduras,varias,Cafe Organico Marcala S.A de C.V.,1400.0,Marcala,comsa,Catuai,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,10.0,7.67,0.0,83.25,11.3,0,1,green,5
+134,Taiwan,蜜多莊園,Taiwu Coffee Cooperative,250.0,新竹縣,張新榮,Typica,Natural / Dry,7.75,7.75,7.5,7.75,7.5,7.42,10.0,7.5,0.0,83.17,9.7,0,0,greenish,2
+135,Taiwan,迎曦山丘,Taiwu Coffee Cooperative,340.0,苗栗縣,翁召安,no_record,Washed / Wet,7.67,7.67,7.5,7.58,7.58,7.5,10.0,7.67,0.0,83.17,11.8,0,0,blue-green,0
+136,Laos,Nongluang Bolaven Plateau,Dao Heuang Group,1250.0,"Nongluang Bolaven Plateau, Champasack, Lao PDR",Dao Heuang Group,Catimor,Natural / Dry,7.67,7.75,7.33,7.67,7.58,7.5,10.0,7.58,0.0,83.08,11.8,0,0,brownish,7
+137,Honduras,La Cuchilla,CIGRAH,1368.0,"Centro, Lagunetillas - Ajuterique, Comayagua",Fausto Nahun Maldonado,Catuai,Washed / Wet,7.67,7.67,7.5,7.58,7.58,7.5,10.0,7.58,0.0,83.08,10.6,0,2,green,7
+138,Honduras,Bethel,CADEXSA,1450.0,"Los Planes de Santa Maria, La Paz",Omar Acosta,Catuai,Washed / Wet,7.75,7.58,7.58,7.58,7.58,7.5,10.0,7.5,0.0,83.08,9.6,0,0,green,2
+139,Colombia,EL PRADO,carcafe ltda,1650.0,HUILA,FRANKLIN DUSSAN,Caturra,Washed / Wet,8.0,7.67,7.42,7.58,7.58,7.42,10.0,7.33,0.0,83.0,13.1,0,0,bluish-green,1
+140,Taiwan,樹橋窩莊園,Taiwu Coffee Cooperative,275.0,新竹縣,王維書,Typica,Pulped natural / honey,7.5,7.67,7.58,7.58,7.5,7.5,10.0,7.58,0.0,82.92,8.9,0,0,blue-green,0
+141,Mexico,Finca Tequihua,La Villa Coffee Company LLC,1350.0,"ZONGOLICA, VERACRUZ",Martin Tequihuatle Zepahua,Bourbon,Washed / Wet,7.75,7.5,7.42,7.67,7.58,7.5,10.0,7.5,0.0,82.92,11.9,2,0,green,1
+142,Colombia,La Argentina,Coffee Quality Union,1350.0,Quindio,Augusto Torres,Typica Gesha,Washed / Wet,7.58,7.5,7.5,7.67,7.58,7.5,10.0,7.58,0.0,82.92,11.5,0,1,greenish,3
+144,Honduras,Varias,Cafe Organico Marcala S.A de C.V.,1280.0,Marcala,Varios,Catuai,Washed / Wet,7.67,7.58,7.5,7.5,7.58,7.5,10.0,7.5,0.0,82.83,10.0,0,0,green,4
+145,Thailand,Doi Tung Development Project,Doi Tung Development Project,1400.0,North of Thailand,Doi Tung Development Project,Gayo,Washed / Wet,7.17,7.92,7.58,7.5,7.58,7.67,10.0,7.42,0.0,82.83,11.8,0,0,yellow-green,5
+146,Vietnam,Ea tan Cooperative,SIMEXCO DAKLAK LTD,900.0,"Eatan Commune, Krong Nang District, Krong Nang Province",Ea Tan Cooperative,Catimor,Pulped natural / honey,7.58,7.42,7.58,7.5,7.67,7.75,10.0,7.33,0.0,82.83,13.3,0,0,green,4
+147,Nicaragua,Finca San Felipe,Exportadora Atlantic S.A,1200.0,Matagalpa,Exportadora Atlantic S.A.,SHG,Natural / Dry,7.33,7.58,7.25,7.33,7.75,8.17,10.0,7.33,0.0,82.75,10.5,5,2,green,1
+148,Costa Rica,AMA EL AROMA Micro lot - Sunrise,Taiwan Coffee Laboratory,1450.0,west Villege,various producers,SL28,Pulped natural / honey,7.33,7.5,7.25,7.92,7.75,7.58,10.0,7.42,0.0,82.75,11.8,0,0,pale yellow,1
+149,Colombia,Federación Nacional de Cafeteros de Colombia,"NIPPON COFFEE TRADING CO.,LTD.",1700.0,Huila,Federación Nacional de Cafeteros de Colombia,Caturra,Washed / Wet,7.58,7.67,7.58,7.5,7.33,7.5,10.0,7.5,0.0,82.67,11.8,0,1,green,2
+150,Thailand,Doi Tung Development Project,Doi Tung Development Project,1390.0,North of Thailand,Doi Tung Development Project,Caturra,Washed / Wet,7.33,7.58,7.58,7.5,7.67,7.67,10.0,7.33,0.0,82.67,13.0,1,0,greenish,0
+151,Thailand,Kevin Coffee,Square Root,1200.0,Chiang Mai,Kevin Wattana,"Bourbon, Catimor, Caturra, Typica",Natural / Dry,7.5,7.58,7.5,7.42,7.5,7.58,10.0,7.58,0.0,82.67,11.2,0,0,yellow green,0
+152,Honduras,Bethel,CADEXSA,1450.0,los planes de santa maria la paz,Omar Acosta,Catuai,Washed / Wet,7.67,7.58,7.33,7.5,7.58,7.5,10.0,7.5,0.0,82.67,9.6,0,0,green,2
+153,Taiwan,銅鏡莊園,Taiwu Coffee Cooperative,165.0,苗栗縣,吳聲發,no_record,Natural / Dry,7.67,7.67,7.42,7.42,7.42,7.5,10.0,7.5,0.0,82.58,9.8,0,0,green,0
+154,Taiwan,掬香園,Taiwu Coffee Cooperative,465.0,苗栗縣,謝櫞楨,Caturra,Washed / Wet,7.67,7.58,7.42,7.42,7.5,7.5,10.0,7.5,0.0,82.58,8.4,0,0,blue-green,2
+155,Nicaragua,Finca Las Dos Marias,NicaNoLA Coffee,1350.0,ESTELI,NicaNoLA Coffee,Parainema,Washed / Wet,7.5,7.58,7.42,7.58,7.5,7.58,10.0,7.42,0.0,82.58,10.1,0,0,green,0
+156,El Salvador,Agua Caliente,Consejo Salvadoreño del Café,1200.0,Apaneca - Ilamatepec,"J.J. Borja Nathan, S.A.",Bourbon,Washed / Wet,7.67,7.33,7.17,7.67,7.83,7.5,10.0,7.33,0.0,82.5,11.3,0,0,green,2
+157,Panama,Finca Lerida,Panamerican Coffee Trading,1200.0,Boquete,Finca Lerida,Caturra,Washed / Wet,7.75,7.67,7.17,7.67,7.42,7.42,10.0,7.42,0.0,82.5,10.0,0,0,green,0
+158,Brazil,Fazenda Pedra Preta,Man Volcafe Brasil Ltda.,1100.0,MANTIQUEIRA / SUL DE MINAS,Eduardo Niero de Souza,Mundo Novo,Natural / Dry,7.5,7.58,7.5,7.5,7.67,7.42,10.0,7.33,0.0,82.5,11.8,0,1,bluish-green,1
+159,United States (Hawaii),Kainaliu Farm,Taiwan Coffee Laboratory,640.0,Kona,Kainaliu-Kona Coffee Company,Maragogype,Washed / Wet,7.33,7.58,7.5,7.5,7.5,7.58,10.0,7.5,0.0,82.5,11.7,0,0,blue-green,1
+160,Mexico,Las Trincheras,Taiwan Coffee Laboratory,1340.0,Veracruz,Jose Cienfuegos,Pacamara,Washed / Wet,7.67,7.42,7.5,7.5,7.67,7.42,10.0,7.33,0.0,82.5,10.7,0,0,pale yellow,0
+161,Honduras,La Cuchilla,Mercon Honduras,1368.0,"Centro, Lagunetillas - Ajuterique, Comayagua",Fausto Nahun Maldonado,Catuai,Washed / Wet,7.58,7.58,7.33,7.5,7.58,7.42,10.0,7.5,0.0,82.5,10.6,0,0,green,8
+162,Taiwan,弘欣咖啡園,Taiwu Coffee Cooperative,139.0,新竹縣,胡明杰,no_record,Washed / Wet,7.42,7.42,7.58,7.42,7.58,7.5,10.0,7.58,0.0,82.5,8.4,0,0,green,2
+163,Nicaragua,Finca Aurora,Mr.Brown Cafe,1275.0,"Matagalpa, Nicaragua",Sabio Coffee - Enrique Ferrufino & Tania Ferrufino,Caturra-Catuai,Washed / Wet,7.58,7.58,7.42,7.42,7.5,7.5,10.0,7.42,0.0,82.42,11.4,0,0,bluish-green,0
+164,Vietnam,Apollo Estate,"Sunvirtue Co., Ltd.",1040.0,Dalat,"Yeh,Li Chuan",Catimor,Washed / Wet,7.5,7.5,7.33,7.5,7.5,7.42,10.0,7.58,0.0,82.33,10.5,0,0,bluish-green,0
+165,El Salvador,Agua Caliente,Consejo Salvadoreño del Café,1200.0,Apaneca - Ilamatepec,"J.J. Borja Nathan, S.A.",Bourbon,Washed / Wet,7.5,7.5,7.42,7.42,7.42,7.67,10.0,7.42,0.0,82.33,12.0,0,7,green,10
+166,El Salvador,Agua Caliente,Consejo Salvadoreño del Café,1200.0,Apaneca - Ilamatepec,"J.J. Borja Nathan, S.A.",Bourbon,Washed / Wet,7.33,7.67,7.25,7.67,7.83,7.42,10.0,7.17,0.0,82.33,11.8,0,0,bluish-green,0
+167,Taiwan,寶山謐靚,Taiwu Coffee Cooperative,140.0,新竹縣,宋煦仁,no_record,Natural / Dry,7.67,7.58,7.42,7.5,7.33,7.42,10.0,7.42,0.0,82.33,10.8,0,0,green,1
+168,Peru,Fundo La Libertado,Itochu Corporation,1600.0,"Chanchamayo, La Merced",Sand Crispin Espiritu,Caturra,Washed / Wet,7.67,7.5,7.33,7.58,7.33,7.42,10.0,7.42,0.0,82.25,11.7,0,1,greenish,3
+169,United States (Hawaii),Manny's Farm,Taiwan Coffee Laboratory,1200.0,Kona district of Big Island,Manny Ochoa,Typica,Washed / Wet,7.75,7.42,7.33,7.5,7.33,7.5,10.0,7.33,0.0,82.17,10.6,1,0,green,5
+170,Kenya,Kenyan Highlands,Coffee Quality Union,1725.0,Kericho,Slelected small holder,"SL28,SL34,Ruiru11",Washed / Wet,7.5,7.5,7.42,7.5,7.25,7.5,10.0,7.5,0.0,82.17,11.2,0,0,green,2
+171,Honduras,La Cuchilla,Mercon Honduras,1368.0,"Centro, Lagunetillas - Ajuterique, Comayagua",Fausto Nahun Maldonado,Catuai,Washed / Wet,7.67,7.5,7.25,7.5,7.5,7.33,10.0,7.42,0.0,82.17,10.6,0,0,green,8
+172,Taiwan,金暖農場,Taiwu Coffee Cooperative,600.0,桃園市,何育達,no_record,Washed / Wet,7.5,7.67,7.33,7.5,7.25,7.33,10.0,7.5,0.0,82.08,9.7,0,0,bluish-green,0
+173,Taiwan,好客農埸,Taiwu Coffee Cooperative,460.0,苗栗縣,彭聰明,no_record,Pulped natural / honey,7.33,7.42,7.42,7.5,7.42,7.5,10.0,7.5,0.0,82.08,8.1,0,0,greenish,3
+174,Taiwan,拉拉山祖嵐咖啡莊園,Taiwu Coffee Cooperative,500.0,桃園市,宗素霞,no_record,Washed / Wet,7.5,7.58,7.42,7.42,7.25,7.42,10.0,7.42,0.0,82.0,8.2,0,0,green,1
+175,Thailand,Doi Tung Development Project,Doi Tung Development Project,1000.0,North of Thailand,Doi Tung Development Project,Catimor,Washed / Wet,7.17,7.5,7.42,7.42,7.58,7.5,10.0,7.42,0.0,82.0,9.8,0,0,green,0
+176,Costa Rica,San Diego Mill,Beneficios Volcafé Costa Rica,1500.0,Corralillo Tarrazu,San Diego Mill,Caturra,Washed / Wet,7.42,7.42,7.42,7.33,7.58,7.33,10.0,7.5,0.0,82.0,10.5,1,2,green,8
+179,Peru,Fundo La Libertad,Itochu Corporation,1600.0,"Chanchamayo, La Merced",Sandro Crispin Espiritu,Caturra,Washed / Wet,7.5,7.5,7.33,7.5,7.33,7.33,10.0,7.42,0.0,81.92,11.6,0,2,greenish,2
+180,Guatemala,MULTIPLE SMALLHOLDER FARMS,"HARU International Corp, 守成咖啡",1400.0,Antigua,La Minita,Caturra,Washed / Wet,7.33,7.42,7.33,7.42,7.58,7.42,10.0,7.42,0.0,81.92,10.3,0,0,greenish,1
+181,Taiwan,阿拉思家,Taiwu Coffee Cooperative,300.0,桃園市,李秀圓,Typica,Pulped natural / honey,7.25,7.42,7.42,7.5,7.42,7.42,10.0,7.42,0.0,81.83,11.3,0,0,green,0
+182,Vietnam,Gaia Farms,Brew Baby Coffee Company,5400.0,Lam Dong Province,Viet Coffee Company Limited,Catimor,Pulped natural / honey,7.5,7.5,7.25,7.42,7.42,7.42,10.0,7.33,0.0,81.83,11.2,0,0,green,4
+183,Brazil,Sitio Colinas,Coffee Quality Union,1000.0,Mantiquira de minas,Luis Flavio Pereira de Castro,Yellow Catuai,Pulped natural / honey,7.5,7.5,7.42,7.33,7.33,7.33,10.0,7.42,0.0,81.83,11.3,0,0,pale yellow,2
+184,Brazil,Fazenda Olhos Dagua,Mr.Brown Cafe,950.0,Sul de Minas,Paulo Enidio Crabi,Catucai,Natural / Dry,7.42,7.5,7.58,7.33,7.33,7.25,10.0,7.33,0.0,81.75,11.1,0,0,yellow-green,0
+185,Colombia,More than one,Mr.Brown Cafe,1574.0,Santander,More than one,Santander,Washed / Wet,7.33,7.5,7.33,7.42,7.42,7.42,10.0,7.33,0.0,81.75,11.2,0,0,yellow-green,0
+186,Mexico,Finca San José,La Villa Coffee Company LLC,1200.0,"Coatepec, Veracruz",José Gerardo Gutierrez Morales,Typica,Washed / Wet,7.58,7.42,7.25,7.25,7.5,7.33,10.0,7.33,0.0,81.67,11.8,2,0,green,2
+187,Costa Rica,HACIENDA SAN IGNACIO,Grupo ECOM,1200.0,occidente,FJO ORLICH HNO LTDA,Caturra,Washed / Wet,7.33,7.42,7.25,7.42,7.42,7.33,10.0,7.42,0.0,81.58,9.7,0,2,green,4
+188,Taiwan,橫鹿,Taiwu Coffee Cooperative,300.0,新北市,呂星輝,Typica,Pulped natural / honey,7.42,7.5,7.33,7.33,7.33,7.33,10.0,7.33,0.0,81.58,9.0,0,0,yellow-green,0
+189,Taiwan,大屯29莊園,Taiwu Coffee Cooperative,435.0,臺北市,侯奕瑋,no_record,Pulped natural / honey,7.33,7.5,7.42,7.33,7.33,7.25,10.0,7.33,0.0,81.5,8.5,0,0,green,0
+190,Thailand,Doi Tung Development Project,Doi Tung Development Project,1400.0,North of Thailand,Doi Tung Development Project,Java,Washed / Wet,7.33,7.42,7.25,7.33,7.5,7.42,10.0,7.17,0.0,81.42,11.6,2,0,green,1
+191,Thailand,Doi Lan,Taiwan Coffee Laboratory,1400.0,Chiang Rai,Prakol Saelee,Typica Bourbon Caturra Catimor,Natural / Dry,7.42,7.25,7.33,7.42,7.33,7.33,10.0,7.25,0.0,81.33,10.5,0,0,yellowish,5
+192,Thailand,Doi Tung Development Project,Doi Tung Development Project,700.0,North of Thailand,Doi Tung Development Project,Catimor,Washed / Wet,7.25,7.25,7.42,7.25,7.42,7.42,10.0,7.17,0.0,81.17,10.4,0,0,green,0
+193,Colombia,Escalera,Coffee Quality Union,1550.0,Cauca,Escalera,"Caturra,Colombia,Castillo",Washed / Wet,7.42,7.25,7.25,7.42,7.17,7.33,10.0,7.33,0.0,81.17,11.4,0,2,greenish,2
+195,El Salvador,"Rosario de Maria II, Area de Loma Alta",Aprentium Enterprises LLC,1400.0,"Volcan Chinchontepek, San Vicente, El Salvador",Roselia Yglesias,Bourbon,Natural / Dry,7.42,7.33,7.33,7.5,7.08,7.0,10.0,7.17,0.0,80.83,10.5,0,8,bluish-green,7
+197,Nicaragua,Sajonia Estate Coffee S.A.,SAJONIA ESTATE COFFEE S.A.,1000.0,Jinotega,Sajonia Estate Coffee S.A.,Sarchimor,Washed / Wet,7.42,7.17,7.0,7.08,7.42,7.17,10.0,7.17,0.0,80.42,11.2,0,0,green,5
+198,Colombia,Finca Mallorca,Coffee Quality Union,1600.0,"Caicedonia,Valle del Cauca",Finca Mallorca,"Castillo,Caturra,Bourbon",Washed / Wet,7.25,7.25,7.17,7.33,7.0,7.17,10.0,7.25,0.0,80.42,11.0,0,3,greenish,3
+199,Peru,Fundo La Libertad,Itochu Corporation,1600.0,"Chanchamayo, Lamerced",Sandro Crispin Espiritu,Caturra,Washed / Wet,7.5,7.25,7.17,7.17,7.17,7.08,10.0,7.0,0.0,80.33,11.8,0,6,greenish,11
+200,El Salvador,"Rosario de Maria II, Area de Menjivar",Aprentium Enterprises LLC,1300.0,"Volcan Chinchontepek, San Vicente, El Salvador",Roselia Yglesias,Pacas,Natural / Dry,7.08,7.25,7.08,7.42,7.42,7.08,10.0,7.0,0.0,80.33,11.5,0,10,bluish-green,7
+201,Brazil,Various farm,marubeni,1200.0,Alta Mogiana-Ibiraci,COCAPIL,Catuai and Mundo Novo,Natural / Dry,7.25,7.17,7.17,7.08,7.17,7.17,10.0,7.17,0.0,80.17,11.6,0,1,greenish,2
+202,Brazil,Fazenda Conquista,Ipanema Coffees,950.0,Sul de Minas,Ipanema Coffees,Mundo Novo,Natural / Dry,7.17,7.17,6.92,7.17,7.42,7.17,10.0,7.08,0.0,80.08,11.4,0,0,green,4
+203,Nicaragua,Finca San Felipe,Exportadora Atlantic S.A,1200.0,Matagalpa,Exportadora Atlantic S.A.,SHG,Natural / Dry,7.33,7.08,6.75,7.17,7.42,7.17,10.0,7.08,0.0,80.0,10.4,0,2,green,12
+204,Laos,-,Marubeni Corporation,1300.0,Bolaven Plateau,"LAO MINH TIEN COFFEE SOLE CO.,LTD",Catimor,Washed / Wet,7.25,7.17,7.08,7.0,7.08,7.08,10.0,7.0,0.0,79.67,11.6,0,9,green,11
+205,El Salvador,"Rosario de Maria II, Area de La Pila",Aprentium Enterprises LLC,1200.0,"Volcan de San Vicente, La Paz, El Salvador",Roselia Yglesias,Maragogype,Natural / Dry,6.5,6.75,6.75,7.17,7.08,7.0,10.0,6.83,0.0,78.08,11.0,0,12,bluish-green,13
+206,Brazil,Walter Matter,Descafeinadores Mexicano SA. de CV,975.0,Minas Gerais,Walter Matter,Mundo Novo,SEMI-LAVADO,7.25,7.08,6.67,6.83,6.83,6.67,10.0,6.67,0.0,78.0,11.3,0,0,green,1
